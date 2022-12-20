@@ -3,14 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a344bb5121e78c84eb213eaeabaf5af4",
+  "assets/AssetManifest.json": "4e031743606cec11eed22df6181961b0",
 "assets/assets/fonts/Sora-Bold.ttf": "115fa28765f762ccf87f8d9f4d095555",
 "assets/assets/fonts/Sora-Medium.ttf": "64e332141193aeb622230f501446c3dc",
 "assets/assets/fonts/Sora-Regular.ttf": "f91c4379d21d2b0df9f11b85338ddf99",
-"assets/assets/images/gallery.svg": "fef0b6caa5b864bf61182045f985c1d8",
+"assets/assets/images/call.svg": "f5bfd6b0ce570dbf70b07bf6924e7e88",
+"assets/assets/images/gallery.svg": "c3348de7ca439ba505e62ce1e5f7b478",
 "assets/assets/images/instagram-logo-fill-svgrepo-com.svg": "41caed512bb52f7f868a9ad7c281ddc6",
+"assets/assets/images/products.svg": "028463ee54cee6602951cc88a98b408a",
+"assets/assets/images/sale.svg": "999112988219a9663f880c0031931359",
 "assets/assets/images/sale_fill.svg": "b98831e3c977ebfe0ae8375b1cb71c01",
+"assets/assets/images/shampoo.svg": "eef29ccb436394aae1eee4be11842470",
 "assets/assets/images/shaving_razor_lr5atyrmpuy8.svg": "69af7e2d2232199eded16ad0692688aa",
+"assets/assets/images/team.svg": "37ac6720b3909b574b701a75f16da214",
 "assets/FontManifest.json": "2773496617b6567ff5094647c752665f",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "ceb7e7f442cd97a84d06664085d23c94",
@@ -29,9 +34,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "0a5604547ddda4018729772cf902a343",
-"/": "0a5604547ddda4018729772cf902a343",
-"main.dart.js": "cef9aecbb020c31d4e8fbe45039e53b9",
+"index.html": "cd38c44c429927ac9abcaea8d4a2e670",
+"/": "cd38c44c429927ac9abcaea8d4a2e670",
+"main.dart.js": "eacf423862fc6ae18de16e7ba50d032b",
 "manifest.json": "d47dcafb16ab1b8bc6131a97bccfe2fb",
 "version.json": "5886728016249ed7d9e095f2af0fc87f"
 };
